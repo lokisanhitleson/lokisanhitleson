@@ -167,8 +167,6 @@ Accomplished Technical Leader with **11+ years** of hands-on full-stack developm
 
 ## 🚀 Featured Projects
 
-> **Note:** Below is a template for your top projects. Customize and add your actual GitHub repository links.
-
 ### Project 1: [CareNEO](https://github.com/yourprofile/careneо)
 **Healthcare platform connecting caretakers with loved ones**
 - React Native frontend with real-time updates
@@ -193,7 +191,7 @@ Accomplished Technical Leader with **11+ years** of hands-on full-stack developm
 - Redis caching for assessment results
 - ⭐ Key Achievement: Onboarded 500+ institutions
 
-### Project 4: [Your Portfolio/OSS Project](https://github.com/yourprofile/projectname)
+### Project 4: [My Portfolio/OSS Project](https://github.com/yourprofile/projectname)
 **Brief project description**
 - Key technologies used
 - Main features
