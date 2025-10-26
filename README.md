@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/header.gif" alt="Header GIF" width="800" />
+  <img src="/assets/developer-rain.gif" alt="Header GIF" width="1200" />
 </p>
 
 # 👋 Hey, I'm **Lokesh T** | Lead Full Stack Developer
