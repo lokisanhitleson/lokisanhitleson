@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/assets/header.gif" alt="Header GIF" width="800" />
+</p>
+
 # 👋 Hey, I'm **Lokesh T** | Lead Full Stack Developer
 
 <div align="center">
