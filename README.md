@@ -2,7 +2,7 @@
   <img src="/assets/developer-rain.gif" alt="Header GIF" width="1200" />
 </p>
 
-# 👋 Hey, I'm **Lokesh T** | Lead Full Stack Developer
+# 👋 Hey, I'm **Lokesh** | Lead Full Stack Developer
 
 <div align="center">
 
