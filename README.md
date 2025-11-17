@@ -8,11 +8,13 @@
 
 **Building scalable, production-grade applications with modern tech stacks**
 
-*11+ Years of Full-Stack Expertise | Technical Leader | Problem Solver*
+_11+ Years of Full-Stack Expertise | Technical Leader | Problem Solver_
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-lokesh.cloud-0066CC?style=flat-square&logo=google-chrome&logoColor=white)](https://lokesh.cloud)
 [![Email](https://img.shields.io/badge/Email-lokesh603%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lokesh603@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%207708325296-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+917708325296)
-[![Location](https://img.shields.io/badge/Location-Chennai%2C%20India-FF6B6B?style=flat-square&logo=google-maps&logoColor=white)](https://goo.gl/maps/example)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lokeshtofficial-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokeshtofficial/)
+[![GitHub](https://img.shields.io/badge/GitHub-lokisanhitleson-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lokisanhitleson)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-lokesh--t-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3637573/lokesh-t)
 
 </div>
 
@@ -23,6 +25,7 @@
 Accomplished Technical Leader with **11+ years** of hands-on full-stack development expertise, driving projects from concept through production deployment. I specialize in architecting scalable solutions, leading high-performance teams, and mentoring junior developers. Known for rapidly understanding complex legacy systems, solving intricate technical challenges, and collaborating with cross-functional teams to deliver innovative solutions.
 
 **What I Bring to the Table:**
+
 - 🏗️ **System Architecture** – Designing scalable, maintainable applications
 - 👥 **Technical Leadership** – Mentoring teams, code reviews, and best practices
 - ⚡ **Performance Optimization** – Profiling and optimizing application performance
@@ -34,39 +37,52 @@ Accomplished Technical Leader with **11+ years** of hands-on full-stack developm
 ## 🛠️ Tech Stack
 
 ### **Frontend**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-498EFB?style=flat-square&logo=ionic&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### **Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Hapi](https://img.shields.io/badge/Hapi-13992D?style=flat-square&logo=hapi&logoColor=white)
+![Hapi.js](https://img.shields.io/badge/Hapi.js-13992D?style=flat-square&logo=hapi&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### **Databases**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C87?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 ### **Advanced Specializations**
+
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Llama](https://img.shields.io/badge/Llama%20API-003366?style=flat-square)
 
 ### **DevOps & Infrastructure**
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D70015?style=flat-square&logo=apache&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=flat-square&logo=githubactions&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ---
@@ -74,86 +90,110 @@ Accomplished Technical Leader with **11+ years** of hands-on full-stack developm
 ## 💼 Professional Experience
 
 ### **Lead Full Stack Developer** | Mazelon Technologies Private Limited
-**June 2018 – Present** | *7+ years*
+
+**June 2018 – Present** | _7+ years_
 
 **Key Projects:**
-- **CareNEO** – Healthcare SaaS platform for caretaker-loved one pairing with health records sharing
-  - *Tech: React Native, Node.js (Express), MongoDB, Redis*
+
+- **Sevily** – B2C mobile platform for pairing caretakers and loved ones with health reminders and data sharing
+
+  - _Tech: React Native, TypeScript, Node.js (Express), MongoDB, Redis, AWS_
   - Role: Planning, Research, Full Stack Development, Deployment, Leadership & Mentoring
 
-- **Mazoapps Health** – Healthcare SaaS for appointments, health records, and daily activity management
-  - *Tech: Angular, Ionic, Node.js (Express), MySQL, Redis, Llama API, OpenAI API*
+- **Mazoapps Health** – AI-integrated healthcare SaaS for services management and patient engagement
+
+  - _Tech: Angular 14, Ionic 6, TypeScript, Node.js (Express), MySQL, Redis, OpenAI API, Llama API_
   - Role: Planning, Research, Full Stack Development, Deployment, Leadership & Mentoring
 
-- **Telefy** – DeFi multi-chain platform with DEX and Lending services
-  - *Tech: React, Web3, Smart Contracts (Solidity), TheGraph API*
+- **Telefy** – World's first credit score-oriented multi-chain DeFi platform with DEX and lending
+
+  - _Tech: React 18, Web3.js, Ethers.js, Node.js, Solidity, TheGraph API_
   - Role: Planning, Research, Full Stack Development, Deployment
 
-- **Bocxy** – SaaS platform for Salon & SPA services with merchant-customer communication
-  - *Tech: Angular, Ionic, Node.js (Express), MySQL*
+- **Bocxy** – SaaS platform for salon & spa management with booking and customer communication
+  - _Tech: Angular 10, Ionic 5, TypeScript, Node.js (Express), MySQL_
   - Role: Planning, Full Stack Development, Deployment, Leadership & Mentoring
 
 ---
 
 ### **Development Team Lead** | Mic and Mac Solutions Private Limited
-**January 2017 – May 2018** | *1.5 years*
+
+**January 2017 – May 2018** | _1.5 years_
 
 **Key Projects:**
-- **MileReach** – Logistics platform with order tracking and automated delivery assignment
-  - *Tech: Angular, Node.js (Hapi), MySQL*
+
+- **Rungila** – Neuro adaptive learning platform for career guidance with smart assessments
+
+  - _Tech: Angular 8, TypeScript, Node.js (Express), MySQL, MongoDB, Redis_
+  - Role: Planning, Research, Full Stack Development, Deployment
+
+- **MileReach** – Last-mile delivery logistics platform with tracking and route optimization
+
+  - _Tech: Angular, TypeScript, Node.js (Hapi.js), Socket.io, MySQL, Redis_
   - Role: Planning, Backend Development, Mentoring & Deployment
 
 - **Keydigg** – Hospital-medicine distributor platform for order and billing management
-  - *Tech: Javascript/HTML, Node.js (Express), MySQL*
+
+  - _Tech: Javascript/HTML, Node.js (Express), MySQL_
   - Role: Planning, Backend Development, Mentoring & Deployment
 
-- **Rungila** – Online career guidance platform with assessments for students and institutions
-  - *Tech: Angular, Node.js (Express), MySQL, MongoDB, Redis*
-  - Role: Planning, Research, Full Stack Development, Deployment
+- **SEP (Sales Enhancement Planner)** – Cloud based analytics and FFR platform (Stock & Sales)
+
+  - _Tech: Javascript/HTML, PHP, MySQL_
+  - Role: Optimizing existing application performance, Adding new features
+
+- **GAGE** – A complete school management platform covering administration, academics, and parent-teacher communication
+  - _Tech: Javascript/HTML, PHP (CodeIgniter), MySQL_
+  - Role: Adding new features, Full stack development
 
 ---
 
 ### **Senior Software Developer** | Asterfone Technologies Private Limited
-**April 2014 – December 2016** | *2.5 years*
+
+**April 2014 – December 2016** | _2.5 years_
 
 **Key Projects:**
-- **Contacts** – IVR-based Help Desk ticketing solution with Voice Response System
-  - *Tech: AngularJS, Node.js (Express), MySQL*
+
+- **Aster Dialer** – Enterprise VoIP call center solution built on Digium Asterisk
+
+  - _Tech: Bootstrap, HTML5, CSS3, JavaScript, jQuery, PHP (CodeIgniter), MySQL, Asterisk PBX_
+  - Role: Full-stack Development
+
+- **Contacts** – CRM tool with Lead Management with Tracking, Email Campaigns and Insights
+
+  - _Tech: AngularJS, Node.js (Express), MySQL_
+  - Role: Full stack Development
 
 - **Vox Tickets** – IVR solution for Help Desk ticket management through voice
-  - *Tech: Bootstrap/HTML, PHP, MySQL*
-
-- **Aster Dialer** – Call center solution based on Digium Asterisk for call management and reporting
-  - *Tech: Bootstrap/HTML, PHP (CodeIgniter), MySQL*
+  - _Tech: Bootstrap/HTML, PHP, MySQL_
+  - Role: Full-stack Development
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | Field |
-|--------|-------------|-------|
-| **B.Tech** | Veltech University | Computer Science & Engineering |
-| **Diploma** | Government Polytechnic College | Computer Engineering |
+| Degree      | Institution                    | Field                          |
+| ----------- | ------------------------------ | ------------------------------ |
+| **B.Tech**  | Veltech University             | Computer Science & Engineering |
+| **Diploma** | Government Polytechnic College | Computer Engineering           |
 
 ---
 
 ## 🌟 Key Highlights
 
-✅ **11+ Years of Production Experience** – Full lifecycle development across multiple tech stacks and domains
+✅ **11+ Years of Production Experience** – Full lifecycle development across healthcare, fintech, logistics, education, and VoIP domains
 
-✅ **Healthcare & FinTech Expertise** – SaaS platforms serving healthcare and DeFi sectors
+✅ **30+ Technical Skills** – Mastery across frontend, backend, databases, DevOps, blockchain, and AI technologies
 
-✅ **Blockchain & Web3** – Ethereum smart contracts and decentralized application development
+✅ **20+ Projects Delivered** – From concept to deployment with 99.9% uptime for critical applications
 
-✅ **AI Integration** – OpenAI API and Llama API implementation for intelligent features
+✅ **40+ Team Members Mentored** – Technical leadership, code reviews, and best practices implementation
 
-✅ **Technical Leadership** – Mentoring developers, conducting interviews, guiding best practices
+✅ **5 Different Tech Domains** – Healthcare SaaS, DeFi platforms, Logistics, EdTech, and VoIP solutions
 
-✅ **Performance Optimization** – Profiling and optimizing legacy systems for production performance
+✅ **AI Integration** – OpenAI and Llama API implementation reducing 40% doctor workload in healthcare
 
-✅ **Rapid Problem Solving** – Quick understanding of complex codebases and efficient troubleshooting
-
-✅ **Cross-Platform Development** – React, React Native, Angular, Ionic across web and mobile
+✅ **Cross-Platform Mastery** – React, React Native, Angular, Ionic, Next.js across web, mobile, and blockchain
 
 ---
 
@@ -167,50 +207,94 @@ Accomplished Technical Leader with **11+ years** of hands-on full-stack developm
 
 ## 🚀 Featured Projects
 
-### Project 1: [CareNEO](https://github.com/yourprofile/careneо)
-**Healthcare platform connecting caretakers with loved ones**
-- React Native frontend with real-time updates
-- Node.js backend with MongoDB persistence
-- Redis caching for performance optimization
-- User authentication and health data encryption
-- ⭐ Key Achievement: Serve 1000+ active users with 99.9% uptime
+### 1️⃣ [Sevily](https://sevily.com)
 
-### Project 2: [Telefy DeFi Platform](https://github.com/yourprofile/telefy)
-**Decentralized finance with cross-chain support**
-- Smart contracts written in Solidity (Ethereum)
-- React frontend with Web3.js integration
-- TheGraph API for efficient data querying
-- Multi-chain transaction support
-- ⭐ Key Achievement: Managed $5M+ in total value locked
+**Bridging Family/Friends Through Smart Health Monitoring**
 
-### Project 3: [Rungila Career Platform](https://github.com/yourprofile/rungila)
-**Online assessments and career guidance for students**
-- Angular frontend with TypeScript
-- Node.js Express backend with microservices
-- MySQL & MongoDB multi-database architecture
-- Redis caching for assessment results
-- ⭐ Key Achievement: Onboarded 500+ institutions
+_B2C mobile platform for pairing caretakers and loved ones with health reminders and automated health data sharing_
 
-### Project 4: [My Portfolio/OSS Project](https://github.com/yourprofile/projectname)
-**Brief project description**
-- Key technologies used
-- Main features
-- Impact/achievements
+**Tech Stack:** React Native, TypeScript, Node.js (Express), MongoDB, Redis, AWS EC2/S3, HealthConnect API, HealthKit API
+
+**Key Features:**
+
+- Bidirectional care relationships - be a caretaker and loved one simultaneously
+- Voice-recorded personalized health reminders with alarm-type notifications
+- Automated real-time health data sync from HealthConnect (Android) and HealthKit (iOS)
+- Timezone-aware reminder scheduling for geographically distributed families
+- Multi-authentication support: Google, Apple, Email, Phone
+
+---
+
+### 2️⃣ [Mazoapps Health](https://mazoapps.com)
+
+**AI-Powered Healthcare Management for Modern Facilities**
+
+_AI-integrated healthcare SaaS platform for appointment management, health records, and patient engagement_
+
+**Tech Stack:** Angular 14, Ionic 6, TypeScript, Node.js (Express), Socket.io, MySQL, Redis, OpenAI API, Llama API, Twilio, SendGrid, Razorpay, Zoom API
+
+**Key Features:**
+
+- AI-powered assistant for doctors to understand patients better using OpenAI
+- Comprehensive appointment scheduling with calendar sync (Google Meet/Zoom)
+- Centralized health records management with role-based access control
+- Multi-facility support with white-label customization
+- Automated SMS and email reminders
+- Real-time analytics dashboard for administrators
+
+---
+
+### 3️⃣ [Telefy](https://github.com/telefy)
+
+**World's First Credit Score-Oriented Multi-Chain DeFi Platform**
+
+_Decentralized finance platform with innovative Tele-Score credit system for crypto wallets, supporting DEX, lending, NFT marketplace, and LaunchPad_
+
+**Tech Stack:** React 18, Web3.js, Ethers.js, Redux Toolkit, Node.js (Express), Solidity, TheGraph API, Multi-chain (Ethereum, BSC, Polygon, Solana, Cardano)
+
+**Key Features:**
+
+- Tele-Score: Revolutionary credit scoring system for crypto wallets
+- Tele Swap: AMM-based DEX for token swapping across multiple chains
+- Tele Lend: Automated lending protocol with credit-based interest rates
+- Tele NFT: Multi-chain NFT marketplace with 0.27% fees
+- Tele PAD: LaunchPad for Initial DEX Offerings (IDOs)
+- TELE token staking with rewards distribution
+
+---
+
+### 4️⃣ [Rungila](https://www.rungila.com)
+
+**Neuro Adaptive Learning for Career Success**
+
+_Educational technology platform leveraging neuro adaptive learning algorithms to provide personalized career guidance and assessments_
+
+**Tech Stack:** Angular 8, TypeScript, Node.js (Express), MySQL, MongoDB, Redis, AWS, Jenkins, SMS API, Razorpay
+
+**Key Features:**
+
+- Neuro adaptive assessment algorithms for talent identification
+- 300+ personalized career recommendations based on individual strengths
+- Institutional dashboard for schools and colleges with cohort analytics
+- Comprehensive career planning tools and skills gap analysis
+- Student self-registration and online assessment portal
+- Parent and counselor access portals
 
 ---
 
 ## 💬 Languages
 
-| Language | Proficiency |
-|----------|-------------|
-| **English** | Fluent |
-| **Tamil** | Native |
+| Language    | Proficiency |
+| ----------- | ----------- |
+| **English** | Fluent      |
+| **Tamil**   | Native      |
 
 ---
 
 ## 🤝 Let's Connect
 
 I'm always interested in discussing:
+
 - 🏗️ System architecture and scalability challenges
 - 🔗 Web3 and blockchain development
 - 🤖 AI/ML integration in full-stack applications
@@ -218,6 +302,7 @@ I'm always interested in discussing:
 - 🚀 Building production-grade applications
 
 **Feel free to reach out for:**
+
 - Freelance projects or consulting
 - Technical discussions and collaborations
 - Mentorship opportunities
@@ -229,8 +314,10 @@ I'm always interested in discussing:
 
 ### 📧 Get in Touch
 
-[**Email**](mailto:lokesh603@gmail.com) • [**Phone**](tel:+917708325296) • [**LinkedIn**](https://linkedin.com/in/yourprofile) • [**Twitter**](https://twitter.com/yourprofile)
+[**Portfolio**](https://lokesh.cloud) • [**Email**](mailto:lokesh603@gmail.com) • [**LinkedIn**](https://www.linkedin.com/in/lokeshtofficial/) • [**GitHub**](https://github.com/lokisanhitleson) • [**Stack Overflow**](https://stackoverflow.com/users/3637573/lokesh-t)
 
-**Last Updated:** October 2025
+---
+
+**Last Updated:** January 2025
 
 </div>
